@@ -1,5 +1,5 @@
 # Minecraft-MLP-Trainer
-The code to train neural networks used for Aim Bots and put them into Minecraft functions.
+The code to train neural networks used for Aim Bots and put them into Minecraft functions for [this project](https://github.com/MingshiYangUIUC/MLP-Minecraft-Squid-Workshop-Project).
 
 - Use data_generator.py to create training datasets
 - Use train_*.ipynb to train any networks
